@@ -1,0 +1,15 @@
+---
+ID: 445
+post_title: Contact Form
+author: user
+post_excerpt: ""
+layout: page
+permalink: http://52.3.192.77/contact-form/
+published: true
+post_date: 2016-12-07 10:17:06
+---
+[tm_pb_section admin_label="section" transparent_background="on" allow_player_pause="off" inner_shadow="off" parallax="off" parallax_method="off" custom_padding="105px||140px|" padding_mobile="on" make_fullwidth="off" use_custom_width="off" width_unit="on" make_equal="off" use_custom_gutter="off"][tm_pb_row admin_label="row" make_fullwidth="off" use_custom_width="off" use_grid_padding="off" width_unit="on" custom_width_px="885px" padding_mobile="off" allow_player_pause="off" parallax="off" parallax_method="off" make_equal="off" parallax_1="off" parallax_method_1="off" column_padding_mobile="on" custom_margin="|17%||17%" custom_margin_laptop="|10%||10%" custom_margin_tablet="|0px||0px" custom_margin_phone="|0px||0px" custom_margin_last_edited="on|desktop"][tm_pb_column type="4_4"][tm_pb_contact_form admin_label="Contact Form" captcha="off" use_redirect="off" input_border_radius="0" use_border_color="off" border_color="#ffffff" border_style="solid" custom_button="off" button_letter_spacing="0" button_use_icon="default" button_icon_placement="right" button_on_hover="on" button_letter_spacing_hover="0" submit_text="Send" saved_tabs="all"]
+
+[tm_pb_contact_field field_title="Your name" field_type="input" field_id="Name" required_mark="on" fullwidth_field="off" field_placeholder="Your name" select_multiple="on" select_first_blank="on" show_label="off" field_width="col-md-12" form_field_font_select="default" form_field_font="||||" use_border_color="off" border_style="solid"] [/tm_pb_contact_field][tm_pb_contact_field field_title="Your e-mail" field_type="email" field_id="Email" required_mark="on" fullwidth_field="off" field_placeholder="Your e-mail" select_multiple="on" select_first_blank="on" show_label="off" field_width="col-md-12" form_field_font_select="default" form_field_font="||||" use_border_color="off" border_style="solid"] [/tm_pb_contact_field][tm_pb_contact_field field_id="Phone" field_title="Your phone" field_placeholder="Your phone" field_type="input" select_multiple="on" select_first_blank="on" required_mark="on" show_label="off" field_width="col-md-12" form_field_font_select="default" form_field_font="||||" use_border_color="off" border_style="solid"] [/tm_pb_contact_field][tm_pb_contact_field field_type="text" field_id="Message" required_mark="on" field_placeholder="Your message" select_multiple="on" select_first_blank="on" show_label="off" field_width="col-md-12" form_field_font_select="default" form_field_font="||||" use_border_color="off" border_style="solid" field_title="Your message"] [/tm_pb_contact_field]
+
+[/tm_pb_contact_form][/tm_pb_column][/tm_pb_row][/tm_pb_section]
