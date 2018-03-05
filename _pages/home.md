@@ -141,16 +141,31 @@ latest news</p>
 
 [/tm_pb_blog][/tm_pb_column][/tm_pb_row][/tm_pb_section][tm_pb_section admin_label="Section" fullwidth="off" specialty="off" transparent_background="off" background_color="#f8f8f8" allow_player_pause="off" inner_shadow="off" parallax="off" parallax_method="off" padding_mobile="on" make_fullwidth="off" use_custom_width="off" width_unit="on" make_equal="off" use_custom_gutter="off" custom_padding_last_edited="on|laptop" custom_padding="106px||20px|" custom_padding_laptop="70px||10px|" custom_padding_tablet="51px||51px|" custom_padding_phone="52px||52px|"][tm_pb_row admin_label="Row" make_fullwidth="on" use_custom_width="on" use_grid_padding="on" width_unit="on" padding_mobile="off" allow_player_pause="off" parallax="off" parallax_method="off" make_equal="off" parallax_1="off" parallax_method_1="off" vertical_alligment_1="center" responsive_laptop_1="inherit" responsive_tablet_1="inherit" responsive_phone_1="inherit" order_laptop_1="1" order_tablet_1="1" order_phone_1="1" parallax_2="off" parallax_method_2="off" vertical_alligment_2="center" responsive_laptop_2="inherit" responsive_tablet_2="inherit" responsive_phone_2="inherit" order_laptop_2="2" order_tablet_2="2" order_phone_2="2" column_padding_mobile="on" custom_margin_last_edited="on|tablet" custom_margin_tablet="|0.9375em||0.9375em" custom_width_px="1800px" custom_css_main_element="margin: 0 auto;"][tm_pb_column type="4_4"][tm_pb_brands_showcase_module admin_label="Brands Showcase" divider="off" divider_color="#000000" template="grid" divider_hide_on_mobile="on" autoplay="off" navigate_button="on" navigate_pagination="on" centered_slides="off" columns="6" columns_last_edited="on|phone" columns_laptop="3" columns_tablet="2" columns_phone="1"]
 
+[tm_pb_brands_showcase_module__item brand_logo="http://52.3.192.77/wp-content/uploads/2018/03/Closepin.png" url_new_window="on" brand_url="http://www.closepin.com/" brand_title="Closepin"]
+
+<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p>
-[tm_pb_brands_showcase_module__item brand_logo="http://52.3.192.77/wp-content/uploads/2017/09/Closepin.png" url_new_window="on" brand_url="http://www.closepin.com/" brand_title="Closepin"]</p>
+
+[/tm_pb_brands_showcase_module__item][tm_pb_brands_showcase_module__item brand_logo="http://52.3.192.77/wp-content/uploads/2018/03/Investor.png" url_new_window="on" brand_url="http://westcoris.com/"]
+
+</p>
 <p>&nbsp;</p>
+<p>
+
+[/tm_pb_brands_showcase_module__item][tm_pb_brands_showcase_module__item brand_logo="http://52.3.192.77/wp-content/uploads/2018/03/Specialty.png" url_new_window="on" brand_url="http://westcorspecialty.com/"]
+
+</p>
 <p>&nbsp;</p>
-<p>[/tm_pb_brands_showcase_module__item][tm_pb_brands_showcase_module__item brand_logo="http://52.3.192.77/wp-content/uploads/2017/09/Investor.png" url_new_window="on" brand_url="http://westcoris.com/"]</p>
+<p>
+
+[/tm_pb_brands_showcase_module__item][tm_pb_brands_showcase_module__item brand_logo="http://52.3.192.77/wp-content/uploads/2018/03/x1a_logo.png" url_new_window="on" brand_url="http://xomeanalytics.com/"]
+
+</p>
 <p>&nbsp;</p>
-<p>[/tm_pb_brands_showcase_module__item][tm_pb_brands_showcase_module__item brand_logo="http://52.3.192.77/wp-content/uploads/2017/09/Specialty.png" url_new_window="on" brand_url="http://westcorspecialty.com/"]</p>
-<p>&nbsp;</p>
-<p>[/tm_pb_brands_showcase_module__item][tm_pb_brands_showcase_module__item brand_logo="http://52.3.192.77/wp-content/uploads/2017/08/x1a_logo.png" url_new_window="on" brand_url="http://xomeanalytics.com/"]</p>
-<p>&nbsp;</p>
-<p>[/tm_pb_brands_showcase_module__item]</p>
+<p>
+
+[/tm_pb_brands_showcase_module__item]</p>
 
 [/tm_pb_brands_showcase_module][/tm_pb_column][/tm_pb_row][/tm_pb_section]
