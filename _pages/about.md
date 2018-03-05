@@ -107,7 +107,7 @@ Westcor holds an “A Prime” rating from Demotech, defining us as a company th
 
 </p>
 
-[/tm_pb_divider][/tm_pb_column][/tm_pb_row][tm_pb_row admin_label="Row"][tm_pb_column type="1_3"][tm_pb_image admin_label="Image" src="http://52.3.192.77/wp-content/uploads/2017/08/benefit logo.png" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="left" sticky="off" align="left" force_fullwidth="off" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid"]
+[/tm_pb_divider][/tm_pb_column][/tm_pb_row][tm_pb_row admin_label="Row"][tm_pb_column type="1_3"][tm_pb_image admin_label="Image" src="http://52.3.192.77/wp-content/uploads/2018/03/benefit-logo.png" show_in_lightbox="off" url_new_window="off" use_overlay="off" animation="left" sticky="off" align="left" force_fullwidth="off" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_style="solid"]
 
 </p>
 
